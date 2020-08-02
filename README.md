@@ -1,2 +1,10 @@
-# lifeguarding-website-August2-summer2020
-My attempt to create a remixable classroom shell for my summer 2020 (August 2-August. 15) lifeguarding course.
+Welcome To Glitch!
+==================
+
+Edit this file to tell people about your project.
+
+To view your project click the "Show Live" button in the upper left of the screen.
+
+We hope you enjoy our friendly and welcoming community. If you have any problems or questions feel free to reach out to us through our [support forum](https://support.glitch.com/).
+
+Thank you, and have a great day!
